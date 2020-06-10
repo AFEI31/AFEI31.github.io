@@ -1,6 +1,3 @@
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
 
 * [Content](#AFEI)
     * [导航](#导航)
@@ -16,10 +13,8 @@
         * [实战项目](#实战项目)
     * [文档](#文档)
         * [Python](#python)
-        * [C & C++](#c-c)
+        * [C & C++](#C & C++)
         * [Java & Scala](#java-scala)
-
-<!-- /code_chunk_output -->
 
 # AFEI
 机器学习网站导航以及资源，欢迎PR提供资源：
