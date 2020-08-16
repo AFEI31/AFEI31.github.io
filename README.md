@@ -12,7 +12,7 @@
         * [开源书籍](#开源书籍)
         * [实战项目](#实战项目)
     * [实践总结](#实践总结)
-        * [超算使用](#超算使用)
+        * [超算使用](https://github.com/DownStone/DownStone.github.io/blob/master/%E8%B6%85%E7%AE%97%E4%BD%BF%E7%94%A8.md)
     * [文档](#文档)
         * [Python](#python)
         * [C & C++](#C & C++)
