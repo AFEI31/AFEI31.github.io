@@ -45,6 +45,7 @@
 ### 资源检索
 
 - [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
+- 罗昭锋 文献检索视频 B站
 
 ### 比赛实践
 
